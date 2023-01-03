@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="song_name">Linkin Park - Numb</string>
+    <string name="artist_name">Chester Bennington</string>
+</resources>
